@@ -10,3 +10,5 @@ Nous utilisons **GitHub Flow** car il est simple et adapté à un petit projet s
 ### Convention de nommage
 - `feature/nom-court` (ex. `feature/ajout-tache`)
 - `fix/nom-court`
+#erreur xx
+trest
